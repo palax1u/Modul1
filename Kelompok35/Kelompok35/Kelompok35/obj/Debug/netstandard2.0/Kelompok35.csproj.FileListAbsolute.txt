@@ -1,0 +1,16 @@
+C:\Users\Afif\source\repos\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.csproj.CoreCompileInputs.cache
+C:\Users\Afif\source\repos\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.AssemblyInfoInputs.cache
+C:\Users\Afif\source\repos\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.AssemblyInfo.cs
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\bin\Debug\netstandard2.0\Kelompok35.deps.json
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\bin\Debug\netstandard2.0\Kelompok35.dll
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\bin\Debug\netstandard2.0\Kelompok35.pdb
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.csprojAssemblyReference.cache
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.AssemblyInfo.cs
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.dll
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.pdb
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.App.xaml.g.cs
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.LoginPage.xaml.g.cs
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.MainPage.xaml.g.cs
+D:\Tugas Kuliah\Prak MDP\Visual\Kelompok35\Kelompok35\Kelompok35\obj\Debug\netstandard2.0\Kelompok35.SignUpPage.xaml.g.cs
